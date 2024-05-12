@@ -1,0 +1,15 @@
+[submodule "responsive-card-for-a-local-service-CSS"]
+	path = responsive-card-for-a-local-service-CSS
+	url = https://github.com/Tahaaitabi/responsive-card-for-a-local-service-CSS
+[submodule "Frontend-Mentor-Responsive-Blog-Preview-Card-Challenge"]
+	path = Frontend-Mentor-Responsive-Blog-Preview-Card-Challenge
+	url = https://github.com/Tahaaitabi/Frontend-Mentor-Responsive-Blog-Preview-Card-Challenge
+[submodule "frontend-mentor-social-media-links-profile-challenge"]
+	path = frontend-mentor-social-media-links-profile-challenge
+	url = https://github.com/Tahaaitabi/frontend-mentor-social-media-links-profile-challenge
+[submodule "frontend-mentor-simple-omelette-recipe-responsive-site-challenge"]
+	path = frontend-mentor-simple-omelette-recipe-responsive-site-challenge
+	url = https://github.com/Tahaaitabi/frontend-mentor-simple-omelette-recipe-responsive-site-challenge
+[submodule "frontend-mentor-qr-challenge"]
+	path = frontend-mentor-qr-challenge
+	url = https://github.com/Tahaaitabi/frontend-mentor-qr-challenge
